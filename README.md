@@ -13,3 +13,5 @@ Week 3: Logistic Regression & Regulariztion
 Week 4: Neural Networks - Representation
 <br>
 Week 5: Neural Networks: Learning
+<br>
+Week 6: Evaluating a Learning Algorithm
