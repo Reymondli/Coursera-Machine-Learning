@@ -15,3 +15,9 @@ Week 4: Neural Networks - Representation
 Week 5: Neural Networks: Learning
 <br>
 Week 6: Evaluating a Learning Algorithm
+<br>
+Week 7: Support Vector Machines
+<br>
+Week 8: K-Means Clustering and PCA
+<br>
+Week 9: Anomaly Detection and Recommender Systems
